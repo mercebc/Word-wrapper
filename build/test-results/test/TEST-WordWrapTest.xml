@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WordWrapTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2019-01-25T11:24:02" hostname="Makiss.localdomain" time="0.002">
+  <properties/>
+  <testcase name="biggerWidth_isWholeWord" classname="WordWrapTest" time="0.0"/>
+  <testcase name="smallerWidth_isWrapped" classname="WordWrapTest" time="0.0"/>
+  <testcase name="sameWidth_isWholeWord" classname="WordWrapTest" time="0.0"/>
+  <testcase name="multipleSmallerWidth_isMultipleWrapped" classname="WordWrapTest" time="0.0"/>
+  <testcase name="widthSameAsSpace" classname="WordWrapTest" time="0.0"/>
+  <testcase name="emptyWord_isEmptyString" classname="WordWrapTest" time="0.0"/>
+  <testcase name="widthInTheSecondWord" classname="WordWrapTest" time="0.0"/>
+  <testcase name="widthInTheMiddleOfMultipleWords" classname="WordWrapTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
